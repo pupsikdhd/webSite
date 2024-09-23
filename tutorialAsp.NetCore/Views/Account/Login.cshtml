@@ -1,0 +1,26 @@
+﻿@model tutorialAsp.NetCore.Data.Models.ViewModel.LoginViewModel
+
+<h2>Вход на сайт</h2>
+
+<a asp-action="Register" asp-controller="Account">Регистрация</a>
+
+<form asp-action="Login" asp-controller="Account" asp-anti-forgery="true">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div>
+        <div class="form-group">
+            <label asp-for="UserName">Введите Имя</label>
+            <input type="text" asp-for="UserName" />
+            <span asp-validation-for="UserName" />
+        </div>
+        <hr />
+        <div class="form-group">
+            <label asp-for="Password">Введите пароль</label>
+            <input asp-for="Password" />
+            <span asp-validation-for="Password" />
+        </div>
+        <hr />
+        <div>
+            <input type="submit" value="Войти" />
+        </div>
+    </div>
+</form>

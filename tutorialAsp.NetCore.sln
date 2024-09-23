@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tutorialAsp.NetCore", "tutorialAsp.NetCore\tutorialAsp.NetCore.csproj", "{C11F693E-4941-4008-BD6A-035E28A087F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11F693E-4941-4008-BD6A-035E28A087F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11F693E-4941-4008-BD6A-035E28A087F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11F693E-4941-4008-BD6A-035E28A087F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11F693E-4941-4008-BD6A-035E28A087F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2C9AFB-7B9B-460B-A808-D5A1965C056A}
+	EndGlobalSection
+EndGlobal
