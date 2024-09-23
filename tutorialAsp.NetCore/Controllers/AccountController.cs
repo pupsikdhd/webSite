@@ -118,18 +118,23 @@ namespace AuthApp.Controllers
             return View(model);
         }
 
-        private async Task Authenticate(string userName, string role)
+        private async Task Authenticate(string userName, string roles)
         {
+            var roleList = roles.Split(',');
             var claims = new List<Claim>
+    {
+        new Claim(ClaimsIdentity.DefaultNameClaimType, userName)
+    };
+
+            foreach (var role in roleList)
             {
-                new Claim(ClaimsIdentity.DefaultNameClaimType, userName),
-                new Claim(ClaimTypes.Role, role) 
-            };
+                claims.Add(new Claim(ClaimTypes.Role, role.Trim()));
+            }
 
             ClaimsIdentity id = new ClaimsIdentity(claims, "ApplicationCookie", ClaimsIdentity.DefaultNameClaimType, ClaimsIdentity.DefaultRoleClaimType);
-
             await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(id));
         }
+
 
 
         public async Task<IActionResult> Logout()

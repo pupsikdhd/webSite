@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Выполнить команду";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Command" method="post" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label for="command">Команда</label>
+        <input type="text" name="command" class="form-control" id="command" placeholder="Введите команду" />
+    </div>
+
+    <hr />
+    <button type="submit" class="btn btn-success">Выполнить</button>
+</form>
+
+<hr />
+
+@if (ViewBag.CommandOutput != null)
+{
+    <pre>@ViewBag.CommandOutput</pre>
+}
+else if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}

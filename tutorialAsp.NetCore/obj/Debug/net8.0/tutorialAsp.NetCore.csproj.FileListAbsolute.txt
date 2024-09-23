@@ -251,3 +251,4 @@ C:\Users\ewsee\source\repos\tutorialAsp.NetCore\tutorialAsp.NetCore\bin\Debug\ne
 C:\Users\ewsee\source\repos\tutorialAsp.NetCore\tutorialAsp.NetCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ewsee\source\repos\tutorialAsp.NetCore\tutorialAsp.NetCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\ewsee\source\repos\tutorialAsp.NetCore\tutorialAsp.NetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ewsee\source\repos\tutorialAsp.NetCore\tutorialAsp.NetCore\obj\Debug\net8.0\tutorialAsp.NetCore.sourcelink.json
