@@ -7,6 +7,50 @@
       "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\controllers\\accountmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\controllers\\accountmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\views\\accountmanage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\views\\accountmanage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\models\\viewmodel\\accountmanage\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\models\\viewmodel\\accountmanage\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\models\\domain\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\models\\domain\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\migrations\\20240923134600_tgid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\migrations\\20240923134600_tgid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,40 +79,12 @@
       "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\views\\home\\command.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\migrations\\20240923102607_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\migrations\\20240923102607_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\models\\domain\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\models\\domain\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\data\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\data\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|c:\\users\\ewsee\\source\\repos\\tutorialasp.netcore\\tutorialasp.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C11F693E-4941-4008-BD6A-035E28A087F1}|tutorialAsp.NetCore\\tutorialAsp.NetCore.csproj|solutionrelative:tutorialasp.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,8 +117,76 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "tutorialAsp.NetCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\appsettings.json",
+              "RelativeToolTip": "tutorialAsp.NetCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:50:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\AccountManage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\AccountManage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\AccountManage\\ChangePassword.cshtml",
+              "RelativeToolTip": "tutorialAsp.NetCore\\Views\\AccountManage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T07:38:07.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\ViewModel\\AccountManage\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Data\\Models\\ViewModel\\AccountManage\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\ViewModel\\AccountManage\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "tutorialAsp.NetCore\\Data\\Models\\ViewModel\\AccountManage\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:22:31.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManageController.cs",
+              "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Controllers\\AccountManageController.cs",
+              "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Controllers\\AccountManageController.cs",
+              "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Controllers\\AccountManageController.cs",
+              "RelativeToolTip": "tutorialAsp.NetCore\\Controllers\\AccountManageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:21:24.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240923134600_TGID.cs",
+              "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Migrations\\20240923134600_TGID.cs",
+              "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Migrations\\20240923134600_TGID.cs",
+              "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Migrations\\20240923134600_TGID.cs",
+              "RelativeToolTip": "tutorialAsp.NetCore\\Migrations\\20240923134600_TGID.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:46:33.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Command.cshtml",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\Home\\Command.cshtml",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\Home\\Command.cshtml",
@@ -110,12 +194,11 @@
               "RelativeToolTip": "tutorialAsp.NetCore\\Views\\Home\\Command.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T11:24:44.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:24:44.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\Account\\AccessDenied.cshtml",
@@ -123,12 +206,11 @@
               "RelativeToolTip": "tutorialAsp.NetCore\\Views\\Account\\AccessDenied.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T10:29:44.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T10:29:44.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "20240923102607_addRole.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Migrations\\20240923102607_addRole.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Migrations\\20240923102607_addRole.cs",
@@ -140,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "DBContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Migrations\\DBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Migrations\\DBContextModelSnapshot.cs",
@@ -152,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\Account\\Register.cshtml",
@@ -160,12 +242,11 @@
               "RelativeToolTip": "tutorialAsp.NetCore\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T09:44:54.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:44:54.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\Account\\Login.cshtml",
@@ -173,97 +254,89 @@
               "RelativeToolTip": "tutorialAsp.NetCore\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T09:43:03.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:43:03.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Controllers\\AccountController.cs",
               "RelativeToolTip": "tutorialAsp.NetCore\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAUwH8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T09:29:39.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\ViewModel\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Data\\Models\\ViewModel\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\ViewModel\\LoginViewModel.cs",
               "RelativeToolTip": "tutorialAsp.NetCore\\Data\\Models\\ViewModel\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:27:59.047Z"
+              "WhenOpened": "2024-09-23T09:27:59.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\ViewModel\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Data\\Models\\ViewModel\\RegisterViewModel.cs",
               "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\ViewModel\\RegisterViewModel.cs",
               "RelativeToolTip": "tutorialAsp.NetCore\\Data\\Models\\ViewModel\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:17:29.676Z"
+              "WhenOpened": "2024-09-23T09:17:29.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Program.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Program.cs",
               "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Program.cs",
               "RelativeToolTip": "tutorialAsp.NetCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:57:00.585Z"
+              "WhenOpened": "2024-09-23T08:57:00.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\appsettings.json",
-              "RelativeDocumentMoniker": "tutorialAsp.NetCore\\appsettings.json",
-              "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\appsettings.json",
-              "RelativeToolTip": "tutorialAsp.NetCore\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-23T08:55:46.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "DBContext.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Context\\DBContext.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Data\\Context\\DBContext.cs",
               "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Context\\DBContext.cs",
               "RelativeToolTip": "tutorialAsp.NetCore\\Data\\Context\\DBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:52:07.329Z"
+              "WhenOpened": "2024-09-23T08:52:07.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\Domain\\UserModel.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Data\\Models\\Domain\\UserModel.cs",
               "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Data\\Models\\Domain\\UserModel.cs",
               "RelativeToolTip": "tutorialAsp.NetCore\\Data\\Models\\Domain\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:50:49.612Z"
+              "WhenOpened": "2024-09-23T08:50:49.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Result.cshtml",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\Home\\Result.cshtml",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\Home\\Result.cshtml",
@@ -271,12 +344,11 @@
               "RelativeToolTip": "tutorialAsp.NetCore\\Views\\Home\\Result.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T08:59:50.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T08:59:50.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\Home\\Index.cshtml",
@@ -284,8 +356,7 @@
               "RelativeToolTip": "tutorialAsp.NetCore\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T08:46:08.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T08:46:08.957Z"
             },
             {
               "$type": "Document",
@@ -295,14 +366,14 @@
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Views\\Shared\\_Layout.cshtml*",
               "RelativeToolTip": "tutorialAsp.NetCore\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC8AAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-19T08:46:05.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ewsee\\source\\repos\\tutorialAsp.NetCore\\tutorialAsp.NetCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "tutorialAsp.NetCore\\Controllers\\HomeController.cs",
@@ -310,8 +381,7 @@
               "RelativeToolTip": "tutorialAsp.NetCore\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:44:56.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T08:44:56.307Z"
             }
           ]
         }

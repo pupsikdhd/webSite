@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ewsee\source\repos\tutorialAsp.NetCore\tutorialAsp.NetCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ewsee/source/repos/tutorialAsp.NetCore/tutorialAsp.NetCore/Views/AccountManage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudE1hbmFnZVxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ewsee/source/repos/tutorialAsp.NetCore/tutorialAsp.NetCore/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
